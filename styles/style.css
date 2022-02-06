@@ -44,6 +44,9 @@ h2 {
 }
 
 @media (max-width: 960px) {
+  h1 {
+    font-size: 60px;
+  }
   .project-description {
     padding: none;
     text-align: center;
