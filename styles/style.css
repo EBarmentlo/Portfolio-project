@@ -25,37 +25,21 @@ h2 {
 }
 
 .logo {
-  max-width: 120px;
+  max-width: 50px;
 }
 
-nav {
-  padding: 30px 50px;
+.nav {
+  padding: 20px 0;
 }
 
-nav ul {
-  padding: 0;
-}
-
-nav li {
+.nav li {
   display: inline;
   list-style: none;
-  line-height: 100px;
-  margin-left: 15px;
 }
 
-nav li.active a {
-  color: black;
-}
-
-nav a {
+.nav li a {
   text-decoration: none;
   color: #bb2d3b;
-  font-weight: bold;
-}
-
-nav a :hover {
-  color: #bb2d3b;
-  transition: all 150ms ease-in-out;
 }
 
 .hero h2 {
