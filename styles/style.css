@@ -24,6 +24,43 @@ h2 {
   font-size: 64px;
 }
 
+footer .email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+  text-align: center;
+}
+
+footer .email-link:hover {
+  color: #bb2d3b;
+}
+
+footer .contact-box {
+  background-color: #f9f7fe;
+  padding: 30px 120px;
+  border-radius: 10px;
+}
+
+footer h4 {
+  font-size: 48px;
+}
+
+.fab {
+  margin: 0 20px;
+  color: #bb2d3b;
+  text-decoration: none;
+  background-color: lightgrey;
+  padding: 13px 14px;
+  font-size: 18px;
+  border-radius: 50%;
+}
+
+.fab:hover {
+  color: white;
+  background-color: #bb2d3b;
+  transition: all 150ms ease-in-out;
+}
+
 .logo {
   max-width: 50px;
 }
