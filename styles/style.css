@@ -1,7 +1,7 @@
 .hero {
   text-align: center;
   background-color: #f9f7fe;
-  padding: 160px 0;
+  padding: 100px 0;
 }
 
 p {
@@ -28,18 +28,12 @@ h2 {
   max-width: 50px;
 }
 
-.nav {
-  padding: 20px 0;
+.active {
+  color: #bb2d3b !important;
 }
 
-.nav li {
-  display: inline;
-  list-style: none;
-}
-
-.nav li a {
-  text-decoration: none;
-  color: #bb2d3b;
+.nav-item {
+  padding: 0 30px;
 }
 
 .hero h2 {
@@ -62,7 +56,7 @@ h2 {
 }
 
 .content {
-  padding: 160px 50px;
+  padding: 100px 50px;
 }
 
 .content h1 {
